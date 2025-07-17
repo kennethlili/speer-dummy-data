@@ -1,0 +1,100 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Candidate A",
+      "availabilityStart": "2025-07-18T09:00:00.000Z",
+      "availabilityEnd": "2025-07-18T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Candidate B",
+      "availabilityStart": "2025-07-18T10:00:00.000Z",
+      "availabilityEnd": "2025-07-18T15:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Candidate C",
+      "availabilityStart": "2025-07-18T11:00:00.000Z",
+      "availabilityEnd": "2025-07-18T17:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Candidate D",
+      "availabilityStart": "2025-07-18T08:00:00.000Z",
+      "availabilityEnd": "2025-07-18T14:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Candidate E",
+      "availabilityStart": "2025-07-18T13:00:00.000Z",
+      "availabilityEnd": "2025-07-18T18:00:00.000Z"
+    }
+  ],
+  "engineers": [
+    {
+      "id": 1,
+      "name": "Engineer A"
+    },
+    {
+      "id": 2,
+      "name": "Engineer B"
+    },
+    {
+      "id": 3,
+      "name": "Engineer C"
+    }
+  ],
+  "availability": [
+    {
+      "id": 1,
+      "engineerId": 1,
+      "engineerName": "Engineer A",
+      "title": "Engineer A",
+      "start": "2025-07-18T09:00:00.000Z",
+      "end": "2025-07-18T12:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-18"
+    },
+    {
+      "id": 2,
+      "engineerId": 2,
+      "engineerName": "Engineer B",
+      "title": "Engineer B",
+      "start": "2025-07-18T09:00:00.000Z",
+      "end": "2025-07-18T15:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-18"
+    },
+    {
+      "id": 3,
+      "engineerId": 3,
+      "engineerName": "Engineer C",
+      "title": "Engineer C",
+      "start": "2025-07-18T15:00:00.000Z",
+      "end": "2025-07-18T17:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-18"
+    },
+    {
+      "id": 4,
+      "engineerId": 1,
+      "engineerName": "Engineer A",
+      "title": "Engineer A",
+      "start": "2025-07-19T10:00:00.000Z",
+      "end": "2025-07-19T14:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-19"
+    },
+    {
+      "id": 5,
+      "engineerId": 2,
+      "engineerName": "Engineer B",
+      "title": "Engineer B",
+      "start": "2025-07-19T13:00:00.000Z",
+      "end": "2025-07-19T17:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-19"
+    }
+  ]
+}
