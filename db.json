@@ -16,19 +16,19 @@
       "id": 3,
       "name": "Candidate C",
       "availabilityStart": "2025-07-21T15:00:00.000Z",
-      "availabilityEnd": "2025-07-21T21:00:00.000Z"
+      "availabilityEnd": "2025-07-21T20:00:00.000Z"
     },
     {
       "id": 4,
       "name": "Candidate D",
-      "availabilityStart": "2025-07-21T13:00:00.000Z",
-      "availabilityEnd": "2025-07-21T18:00:00.000Z"
+      "availabilityStart": "2025-07-22T13:00:00.000Z",
+      "availabilityEnd": "2025-07-22T18:00:00.000Z"
     },
     {
       "id": 5,
       "name": "Candidate E",
-      "availabilityStart": "2025-07-22T17:00:00.000Z",
-      "availabilityEnd": "2025-07-22T22:00:00.000Z"
+      "availabilityStart": "2025-07-22T16:00:00.000Z",
+      "availabilityEnd": "2025-07-22T21:00:00.000Z"
     }
   ],
   "engineers": [
@@ -52,7 +52,7 @@
       "engineerName": "Engineer A",
       "title": "Engineer A",
       "start": "2025-07-21T13:00:00.000Z",
-      "end": "2025-07-21T16:00:00.000Z",
+      "end": "2025-07-21T17:00:00.000Z",
       "type": "engineer",
       "date": "2025-07-21"
     },
@@ -61,7 +61,7 @@
       "engineerId": 2,
       "engineerName": "Engineer B",
       "title": "Engineer B",
-      "start": "2025-07-21T13:00:00.000Z",
+      "start": "2025-07-21T14:00:00.000Z",
       "end": "2025-07-21T19:00:00.000Z",
       "type": "engineer",
       "date": "2025-07-21"
@@ -71,17 +71,17 @@
       "engineerId": 3,
       "engineerName": "Engineer C",
       "title": "Engineer C",
-      "start": "2025-07-22T19:00:00.000Z",
-      "end": "2025-07-22T21:00:00.000Z",
+      "start": "2025-07-21T15:30:00.000Z",
+      "end": "2025-07-21T20:00:00.000Z",
       "type": "engineer",
-      "date": "2025-07-22"
+      "date": "2025-07-21"
     },
     {
       "id": 4,
       "engineerId": 1,
       "engineerName": "Engineer A",
       "title": "Engineer A",
-      "start": "2025-07-22T14:00:00.000Z",
+      "start": "2025-07-22T13:00:00.000Z",
       "end": "2025-07-22T18:00:00.000Z",
       "type": "engineer",
       "date": "2025-07-22"
@@ -91,10 +91,40 @@
       "engineerId": 2,
       "engineerName": "Engineer B",
       "title": "Engineer B",
-      "start": "2025-07-23T17:00:00.000Z",
-      "end": "2025-07-23T21:00:00.000Z",
+      "start": "2025-07-22T16:00:00.000Z",
+      "end": "2025-07-22T21:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-22"
+    },
+    {
+      "id": 6,
+      "engineerId": 3,
+      "engineerName": "Engineer C",
+      "title": "Engineer C",
+      "start": "2025-07-23T13:30:00.000Z",
+      "end": "2025-07-23T18:30:00.000Z",
       "type": "engineer",
       "date": "2025-07-23"
+    },
+    {
+      "id": 7,
+      "engineerId": 1,
+      "engineerName": "Engineer A",
+      "title": "Engineer A",
+      "start": "2025-07-24T13:00:00.000Z",
+      "end": "2025-07-24T17:30:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-24"
+    },
+    {
+      "id": 8,
+      "engineerId": 2,
+      "engineerName": "Engineer B",
+      "title": "Engineer B",
+      "start": "2025-07-25T14:00:00.000Z",
+      "end": "2025-07-25T20:00:00.000Z",
+      "type": "engineer",
+      "date": "2025-07-25"
     }
   ]
 }
